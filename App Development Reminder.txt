@@ -1,0 +1,116 @@
+                   بسمالله الرحمان الرحيم
+
+  ==============  DATA REPORT  ===============
+
+	This file is an Islamic accompaniment to a data file.
+
+      🟩    Data File Name:    Package.json                 
+      🟩    Contents:    package manager specs                
+      🟩    Sensitivity:      low                 
+      🟩    Data           ~20 lines                 
+        
+Praise be to God for his blessings. All actions are
+recorded by his scribes. No data, no matter how tiny, is meaningless.
+
+ISLAMIC INFORMATION ENVIRONMENTS
+=================================
+
+Before we go further, think about what God has given us. The first twelve aayaat of surah As-Sooffaat describe the makings of a very organised and well arranged system in which information flows are protected and can develop with illumination, not endarkenment.
+
+This is Islamic enframing. These aayaat enable us to frame the world the way we should, and so they are included here for your remembrance.
+
+Those aayaat state, in The Name of God, that rows are an oath, devils are rejected, and the reminder is recited, that such holy configuration is a sign of the oneness of God, and that the space and time environment for these creatures and structures contains massive energy stores, the stars, that operate as a guard system against the attempts the devils make to penetrate the system.
+
+It is not cybersecurity, but cosmic security. Glory be to God. At the end of the surah, He calls us to glorify Him, and anytime is also good, God willing. Glorify Him much. Identifying and understanding the differences between cyberspace and the cosmos is so important.
+
+In The Name of God, The Most Merciful, The Especially Merciful
+
+Glorified is your Lord, The Lord of Honour, from what they attribute. And peace be upon the messengers, and praise be to God, Lord of All Knowledge Spaces.
+
+As-Sooffaat, 180-182	
+
+Now, on to computer application configurations.
+
+BACKGROUND
+============
+
+Look at some background to the package.json file. The predecessor to Package was Makefile. It comes from the 1970s. Make came well before npm, and its targets worked like script names:
+
+make
+build:
+	gcc -o app main.c
+
+test:
+	./app --test
+
+clean:
+	rm -f app
+
+This still works. Make is still operational. The snippet above is Makefile syntax, which is its own small language. Each target name, by which we mean "build:", "test:", or "clean:" in the above code, is Makefile syntax, and the indented lines beneath it are shell commands, the same kind you’d type in a terminal.
+
+gcc -o app main.c is a shell command that runs the C compiler on a C file called main.c. The C code itself isn’t in the snippet.
+./app --test runs the compiled program. The --test flag is just for illustration, and it would work only if the program was written to handle it.
+rm -f app is a shell command that deletes the file.
+
+This made up example chose a C example because make was traditionally used to build C programs. It can run any command, though, and doesn’t require C. You run make build, make test or make clean, just as you run npm run tauri. Tauri goes to Rust, not C, though.
+
+PARALLEL
+========
+
+Imagine the project management of a bridge project. This is an illustration, not a document from a real project, and uses the stage names of China’s standard construction procedure, 基本建设程序.
+
+Stage name						What it triggers
+项目建议书 - project proposal			Justify the bridge, with a rough location and scale
+可行性研究 - feasibility study			Survey the river, compare costs and routes
+施工图设计 - construction drawings	Fix the design, then produce the detailed drawings
+施工 - construction					Foundations, piers, deck
+竣工验收 - completion acceptance		Inspect and sign off before opening
+
+Each name stands for a defined set of operations and is run in order, like named script steps. Unlike scripts, these stages must run in sequence.
+
+THE BANE OF ENGINEERING
+========================
+
+These are all engineering methods, and they often reduce the role of spirituality and ignore the important step of dedication to Allah. Scripture reminds us of the work of Abraham and the team of David and Solomon. All of them had great building tasks, but none of them ever let the physical manifest lead. Dedication, gratitude, and submission governed all their work.
+
+Patience is not speed. Speed is not patience. Slow down. Dedicate your work to The Almighty, and seek his direction. Ask God to direct your steps, and remember Him deeply, like they did. They were 'awwaabeen'.
+
+INVOKING TAURI SCRIPTS IN PACKAGE.JSON
+=====================================
+
+The starter app from Tauri that new users typically run for a demo included these four scripts:
+
+"dev": "vite", "build": "vite build", "preview": "vite preview", and "tauri": "tauri".
+
+Meanwhile, an app built at home with the Tauri appmaker installed on the laptop did not include all of them, but only the last one. This is only annoying because the key is called "tauri", not "appmaker"
+
+It says "tauri": "tauri". Why not "appmaker": "tauri"? Wouldn't that be more modular and aligned with an open source software ecosystem?
+
+What it does is it triggers the Tauri command line interface.
+
+Think about how Islamic information science views nodes in information systems. We should be aware of them. This one is worth investigating.
+
+It tells the package manager reading the package.json file to tauri with tauri. An Islamic appmaker would use a key like "appmaker", "appcreator", or some other less restrictive naming convention, God willing.
+
+Why not "assemble" with tauri, "create" with tauri, or "manage" with tauri? It makes the package manager rely solely on the Tauri app development pathway and is not transferable to other app development environments. While they would still accept the file suite, they would have to pick this up and rewrite the scripts section in package.json.
+
+Eventually, this file leads to an app build, which itself outputs a massive structure of binary code that will never itself be seen by human eyes and which requires a specific operating system to even work. There should be a prayer at that point, and so, since there isn't, this file is mentioning it.
+
+It is not a barefoot program. It can't walk across the earth like a cow, climb a tree like a monkey can, or climb a mountain like a goat. Ants realise that they could be squashed and killed. An app has no such awareness. That's not always a bad thing, but it means that programs are sensitive to their environments. They can't just dwell anywhere they want to. It's an issue, but it can be turned to good purpose if we stay focused, God willing.
+
+Look, even people can't walk anywhere we want. We need shoes, and pathways, bridges, dwellings, and other manifest built environments. We can direct ourselves to work in teams, worship our Lord in rows, and use language in ways that really work and maintain the light. That's the recitation that sruah Soffaat mentions, and it is a high level of the remembrance of our Lord. A high level system requires more structure to support it.
+
+The manifest in a package.json file does that for an app. It helps the app builder to make an app that works in the current software ecosystem. Both the software ecosystem and the app itself are man-made and require some manifestation. So the package.json does that. Praise be to God.
+  
+REMEMBRANCE
+============
+
+This is only a dzikr note to accompany the package.json file;
+json data files cannot hold comments.
+
+Say bismillah, dedicate the work to the glory of
+The Almighty, and review this dzikr, then put
+your trust in God.
+
+If it is a big issue, or highly sensitive, read
+surah Yaa Siin, notice the traces aayah, which is aayah 12, and focus your mind on accountability.
