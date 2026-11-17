@@ -65,6 +65,7 @@ The project has an src folder. The src folder contains:
 1.  an html file
 2.  a css file
 3.  a javascript file
+4.  this README file
 
 ### src-tauri folder
 
@@ -74,8 +75,7 @@ The project contains standard files from Tauri in a src-tauri folder which were 
 2.  tauri.conf.json
 3.  package-lock.json
 4.  package.json
-5.  this README.md file
-6.  other files Tauri installed at dev run
+5.  other files Tauri installed at dev run
 
 ### node-modules folder
 
